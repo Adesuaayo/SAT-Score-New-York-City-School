@@ -1,0 +1,8 @@
+Pandas
+Numpy
+plotly
+Folium
+Seaborn
+Matplotlib
+Cufflinks
+ggplot
